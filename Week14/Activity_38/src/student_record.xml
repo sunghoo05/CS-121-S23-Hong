@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record>
+    <student id="123">
+        <firstname>Sung Hoo</firstname>
+        <lastname>Hong</lastname>
+        <major>Computer Science</major>
+        <gpa>4.0</gpa>
+    </student>
+    <student id="456">
+        <firstname>Jane</firstname>
+        <lastname>Smith</lastname>
+        <major>Biology</major>
+        <gpa>3.5</gpa>
+    </student>
+</record>
